@@ -1,0 +1,1 @@
+{\n  "name": "ai",\n  "version": "0.1.0",\n  "description": "html шаблонайзер",\n  "main": "src/main.js",\n  "private": true,\n  "license": "MIT",\n  "engines": {\n    "node": ">=18"\n  },\n  "scripts": {\n    "start": "electron ."\n  },\n  "dependencies": {\n    "cheerio": "^1.0.0-rc.12",\n    "electron": "^30.0.0",\n    "playwright": "^1.50.0"\n  }\n}
