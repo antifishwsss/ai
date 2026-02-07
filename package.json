@@ -1,1 +1,0 @@
-{"name": "ai","version": "0.1.0","description": "html шаблонайзер","main": "src/main.js","private": true,"license": "MIT","engines": {"node": ">=18"},"scripts": {"start": "electron .","setup": "npx playwright install chromium"},"dependencies": {"cheerio": "^1.0.0-rc.12","electron": "^30.0.0","mime-types": "^2.1.35","playwright": "^1.50.0"}}
