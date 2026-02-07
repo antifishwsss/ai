@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">AntifraudTester</string>
+    <string name="dashboard">Dashboard</string>
+    <string name="device_info">Device Info</string>
+    <string name="location">Location</string>
+    <string name="network">Network</string>
+    <string name="settings">Settings</string>
+    
+    <!-- Device Spoofing -->
+    <string name="spoof_imei">Spoof IMEI</string>
+    <string name="spoof_android_id">Spoof Android ID</string>
+    <string name="spoof_serial">Spoof Serial Number</string>
+    <string name="spoof_mac">Spoof MAC Address</string>
+    
+    <!-- Status -->
+    <string name="active">Active</string>
+    <string name="inactive">Inactive</string>
+    <string name="ready">Ready</string>
+</resources>
